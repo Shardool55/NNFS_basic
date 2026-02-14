@@ -23,5 +23,5 @@ We are **not** trying to get state-of-the-art accuracy here; the main objective 
    - `python data_preprocessing.py`
    - `python model_and_training.py`
 
-Also a side note- I know the code doesn't follow OOPS concepts but further iterations will follow the same.
+Side note- It is a known fact that the the code doesn't follow OOP concepts but further iterations will follow the same.
 
